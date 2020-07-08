@@ -1,0 +1,4 @@
+syntax: regexp
+^bin-debug$
+syntax: regexp
+^src/sounds/music001\.mp3$
